@@ -1,0 +1,12 @@
+
+@keyframes animBefore{
+    100%{
+        transform: rotate(360deg);
+    }
+  }
+  .section2 .brik1:hover{
+    transform: scale(1.2) rotate(360deg);
+  }
+  .section2 .brik3:hover{
+    transform: scale(1.2) rotate(360deg);
+  }
